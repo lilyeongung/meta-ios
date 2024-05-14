@@ -30,6 +30,7 @@
 				E127572A2BED4E0100478724 /* Closures.playground */,
 				E1626EA72BEC8277009F1EFE /* Functions.playground */,
 				E11989782BF3DAD90042EBC7 /* Classes.playground */,
+				E15FA7212BF3D14C0090BEB9 /* Struct.playground */,
 			);
 			path = Intermediate;
 			sourceTree = "<group>";
@@ -59,7 +60,6 @@
 		E1626EA32BEC6E2B009F1EFE /* Data structures */ = {
 			isa = PBXGroup;
 			children = (
-				E15FA7212BF3D14C0090BEB9 /* Struct.playground */,
 				E1626EA22BEC6949009F1EFE /* Tuples.playground */,
 				E1626EA12BEC60DC009F1EFE /* Arrays.playground */,
 				E1626EA42BEC6E49009F1EFE /* Dictionaries.playground */,
