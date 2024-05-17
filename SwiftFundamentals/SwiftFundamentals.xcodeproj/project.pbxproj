@@ -21,6 +21,8 @@
 		E1626EA42BEC6E49009F1EFE /* Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E1626EA52BEC7DF1009F1EFE /* For-in.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "For-in.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E1626EA72BEC8277009F1EFE /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E1ABBCEE2BF403D100C1C296 /* BankAccountSim.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BankAccountSim.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E1ABBCEF2BF403F000C1C296 /* BankAccountSimPart2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BankAccountSimPart2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -38,6 +40,8 @@
 		E1626E912BEC159C009F1EFE = {
 			isa = PBXGroup;
 			children = (
+				E1ABBCEF2BF403F000C1C296 /* BankAccountSimPart2.playground */,
+				E1ABBCEE2BF403D100C1C296 /* BankAccountSim.playground */,
 				E11989772BF3DAC10042EBC7 /* Intermediate */,
 				E1626EA32BEC6E2B009F1EFE /* Data structures */,
 				E1626E9D2BEC1AC9009F1EFE /* Basics */,
