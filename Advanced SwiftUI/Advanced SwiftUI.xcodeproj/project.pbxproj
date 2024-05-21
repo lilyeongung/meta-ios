@@ -13,6 +13,7 @@
 		E11034DB2BFAB4B5003D370B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E11034DA2BFAB4B5003D370B /* Preview Assets.xcassets */; };
 		E11034E72BFBB7F4003D370B /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11034E62BFBB7F4003D370B /* MyTabView.swift */; };
 		E11034EB2BFBBD04003D370B /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11034EA2BFBBD04003D370B /* ListView.swift */; };
+		E11034EE2BFBC469003D370B /* GestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11034ED2BFBC468003D370B /* GestureRecognizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E11034DA2BFAB4B5003D370B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E11034E62BFBB7F4003D370B /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
 		E11034EA2BFBBD04003D370B /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		E11034ED2BFBC468003D370B /* GestureRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureRecognizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				E11034E92BFBBA86003D370B /* App */,
 				E11034E32BFBB553003D370B /* Navigating an app */,
 				E11034E82BFBBA46003D370B /* Displaying list data */,
+				E11034EC2BFBC0B3003D370B /* Interaction and Gestures */,
 				E11034D72BFAB4B5003D370B /* Assets.xcassets */,
 				E11034D92BFAB4B5003D370B /* Preview Content */,
 			);
@@ -95,6 +98,14 @@
 				E11034D32BFAB4B3003D370B /* Advanced_SwiftUIApp.swift */,
 			);
 			path = App;
+			sourceTree = "<group>";
+		};
+		E11034EC2BFBC0B3003D370B /* Interaction and Gestures */ = {
+			isa = PBXGroup;
+			children = (
+				E11034ED2BFBC468003D370B /* GestureRecognizer.swift */,
+			);
+			path = "Interaction and Gestures";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E11034EB2BFBBD04003D370B /* ListView.swift in Sources */,
+				E11034EE2BFBC469003D370B /* GestureRecognizer.swift in Sources */,
 				E11034D62BFAB4B3003D370B /* NavigationView.swift in Sources */,
 				E11034E72BFBB7F4003D370B /* MyTabView.swift in Sources */,
 				E11034D42BFAB4B3003D370B /* Advanced_SwiftUIApp.swift in Sources */,
