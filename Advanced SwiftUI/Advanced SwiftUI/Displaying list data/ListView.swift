@@ -14,8 +14,10 @@ struct ListView: View {
     var body: some View {
         VStack {
             List {
-                ForEach(model.meals) { item in
-                    Text(item.name)
+                Section("Hello") {
+                    ForEach(model.meals) { item in
+                        Text(item.name)
+                    }
                 }
             }
         }
