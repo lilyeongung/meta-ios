@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E106094C2C06492100709B43 /* JSONInDepth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JSONInDepth.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E106094D2C06497800709B43 /* Parsing data.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Parsing data.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E11AD3DB2BFEDF69003CED24 /* HTTP protocol and async calls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "HTTP protocol and async calls.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E1BE240B2C07959C00235D04 /* Fetching images.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Fetching images.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E11AD3D42BFEDF53003CED24 = {
+			isa = PBXGroup;
+			children = (
+				E1BE240B2C07959C00235D04 /* Fetching images.playground */,
+				E106094D2C06497800709B43 /* Parsing data.playground */,
+				E11AD3DB2BFEDF69003CED24 /* HTTP protocol and async calls.playground */,
+				E106094C2C06492100709B43 /* JSONInDepth.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E11AD3D52BFEDF53003CED24 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1540;
+			};
+			buildConfigurationList = E11AD3D82BFEDF53003CED24 /* Build configuration list for PBXProject "Working with Data in iOS" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E11AD3D42BFEDF53003CED24;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E11AD3D92BFEDF53003CED24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E11AD3DA2BFEDF53003CED24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E11AD3D82BFEDF53003CED24 /* Build configuration list for PBXProject "Working with Data in iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E11AD3D92BFEDF53003CED24 /* Debug */,
+				E11AD3DA2BFEDF53003CED24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E11AD3D52BFEDF53003CED24 /* Project object */;
+}
