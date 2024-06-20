@@ -11,16 +11,18 @@
 		E106094D2C06497800709B43 /* Parsing data.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Parsing data.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E11AD3DB2BFEDF69003CED24 /* HTTP protocol and async calls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "HTTP protocol and async calls.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E1BE240B2C07959C00235D04 /* Fetching images.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Fetching images.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E1E3F1192C1CF31500833ADB /* Practice.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Practice.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E11AD3D42BFEDF53003CED24 = {
 			isa = PBXGroup;
 			children = (
-				E1BE240B2C07959C00235D04 /* Fetching images.playground */,
-				E106094D2C06497800709B43 /* Parsing data.playground */,
+				E1E3F1192C1CF31500833ADB /* Practice.playground */,
 				E11AD3DB2BFEDF69003CED24 /* HTTP protocol and async calls.playground */,
+				E106094D2C06497800709B43 /* Parsing data.playground */,
 				E106094C2C06492100709B43 /* JSONInDepth.playground */,
+				E1BE240B2C07959C00235D04 /* Fetching images.playground */,
 			);
 			sourceTree = "<group>";
 		};

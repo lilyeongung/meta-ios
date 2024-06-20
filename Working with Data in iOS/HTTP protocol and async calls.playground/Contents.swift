@@ -16,10 +16,10 @@ guard let menuURL = menuURL else {
 let request = URLRequest(url: menuURL)
 
 // Step 5: Create a new data task
-let task = URLSession.shared.dataTask(with: menuURL) { data, response, error in
+let task = URLSession.shared.dataTask(with: request) { data, response, error in
     // Step 7: Handle the response data of the data task
     if let data = data,
-       // Step 8: Convert the Data to String
+       // Step 8: Convert the JSON Data to String
        let responseString = String(data: data, encoding: .utf8) {
         print(responseString)
     }
@@ -27,3 +27,13 @@ let task = URLSession.shared.dataTask(with: menuURL) { data, response, error in
 
 // Step 6: Resume the task to execute it
 task.resume()
+
+
+
+
+
+
+
+
+
+// so now I have successfully requested data from the server, i must parse the data so i can use it in my code
